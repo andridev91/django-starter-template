@@ -1,0 +1,13 @@
+# folders
+node_modules/
+venv/
+__pycache__/
+
+# editors
+.idea/
+.vscode/
+.ropeproject/
+
+# files
+*.pyc
+db.sqlite3
